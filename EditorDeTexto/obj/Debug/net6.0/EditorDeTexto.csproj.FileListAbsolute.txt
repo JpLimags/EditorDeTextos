@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.deps.json
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.runtimeconfig.json
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.dll
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/bin/Debug/net6.0/EditorDeTexto.pdb
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.dll
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/refint/EditorDeTexto.dll
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.pdb
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/EditorDeTexto.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/EditorDeTextos/EditorDeTexto/obj/Debug/net6.0/ref/EditorDeTexto.dll
